@@ -1,5 +1,7 @@
 # Dashboard de Certificações e Capacitações Profissionais
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 Repositório técnico e executivo focado na consolidação, estruturação e análise de métricas de desenvolvimento profissional, capacitação em tecnologias emergentes, conformidade e governança estratégica.
 
 ---
